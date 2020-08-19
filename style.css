@@ -1,0 +1,15 @@
+#gameField{
+  width: 150px;
+  height: 150px;
+  background-color: red;
+}
+.block{
+  box-sizing: border-box;
+  height: 50px;
+  width: 50px;
+  border: 1px solid blue;
+  float:left;
+  line-height: 50px;
+  text-align: center;
+  text-transform: uppercase;
+}
